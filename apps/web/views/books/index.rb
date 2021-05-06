@@ -1,8 +1,8 @@
 module Web
   module Views
-    module Home
+    module Books
       class Index
-        include Web::Vies
+        include Web::View
       end
     end
   end
